@@ -9,7 +9,7 @@ PageNotFound40/PageNotFound40 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 What too bland? Okay.
-<center><h1>About ME Paige Barrow</h1></center>
+<h1 align="center">About ME Paige Barrow</h1>
 i love coding so much it might be unhealthy. ive been coding since like 2015 when i was a wee little lad. im 15, taken (ik impossible /j) and i love meeting new potential friends. im currently working on ways to prevent ways to get "acsess" to things they shouldnt. If i could i would code all day but i dont code much on github till recently i usually use VS. and i LOVEEEE tea and anything cherry, I would eat anything cherry all day while i code if i was not currently in school. 
 / i am currently looking for
 
