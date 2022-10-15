@@ -1,9 +1,9 @@
 <ul align="center">
-  <li>👋 Hi, I’m @PageNotFound40  </li>
-  <li>👀 I’m interested in Web Design </li>
-  <li>🌱 I’m currently learning JavaScript  </li>
-  <li>💞️ I’m looking to collaborate on Website building  </li>
-  <li>📫 How to reach me Phone:(816) 217-9784  </li>
+  • 👋 Hi, I’m Paige Barrow
+  • 👀 I’m interested in Web Design
+  • 🌱 I’m currently learning JavaScript
+  • 💞️ I’m looking to collaborate on Website building
+  •  📫 How to reach me Phone:(816) 217-9784
 </ul>
 <!---
 PageNotFound40/PageNotFound40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
