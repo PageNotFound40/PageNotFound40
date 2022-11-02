@@ -1,21 +1,97 @@
-<ul align="center">
-  <p>• 👋 Hi, I’m Paige Barrow</p>
-  <p>• 👀 I’m interested in Web Design</p>
-  <p>• 🌱 I’m currently learning JavaScript</p>
-  <p>• 💞️ I’m looking to collaborate on Website building</p>
-  <p>•  📫 How to reach me Phone:(816) 217-9784</p>
-</ul>
-<!---
-PageNotFound40/PageNotFound40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-What too bland? Okay.
-<h1 align="center">About ME Paige Barrow</h1>
-i love coding so much it might be unhealthy. ive been coding since like 2015 when i was a wee little lad. im 15, taken (ik impossible /j) and i love meeting new potential friends. im currently working on ways to prevent ways to get "acsess" to things they shouldnt. If i could i would code all day but i dont code much on github till recently i usually use VS. and i LOVEEEE tea and anything cherry, I would eat anything cherry all day while i code if i was not currently in school. 
-<h3>I am currently looking for</h3>
-<ul align="center">
-<p>• Buissness oppertunities </p>
-<p>• Friends (':</p>
-<p>• People to teach me new things</p>
-<p>• A job</p>
-</ul>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Hello iIam Paige I currently am working on making websites💻</div>  
+  
+
+- 🔭 I’m currently working on [My website](https://github.com/Codelid/codelid.github.io)  
+  
+
+- 🌱 I’m currently learning Java and JavaScript  
+  
+
+- ❓ If you know how i can shorten or clean my code please tell me  
+  
+
+- ⚡ Fun fact: I love cherries and anything cherry flavor  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/pagenotfound40" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/pagenotfound40" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/finixxs" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pagenotfound40&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pagenotfound40&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
