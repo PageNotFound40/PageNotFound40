@@ -88,6 +88,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pagenotfound40&&style=flat-square" align="center" />
 </div>  
-  
+  <img src="https://commons.wikimedia.org/wiki/File:2b2t_Nocom_Overworld_Heatmap.png"/>
 
 <br/>  
