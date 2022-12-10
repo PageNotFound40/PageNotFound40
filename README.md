@@ -1,5 +1,5 @@
 
-### <div align="center">Hello iIam Paige I currently am working on making websites💻</div>  
+### <div align="center">Hello I am Paige I currently am working on making websites💻</div>  
   
 
 - 🔭 I’m currently working on [My website](https://github.com/Codelid/codelid.github.io)  
